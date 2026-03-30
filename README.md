@@ -7,6 +7,7 @@ I'm a 16-year-old Computer Science student at Nile University of Nigeria, passio
 ## 💻 Skills
 
 **Languages:** Python | JavaScript | HTML | CSS
+
 **Tools & Platforms:** Git | Windows | VS Code | GitHub  
 
 ---
@@ -14,17 +15,12 @@ I'm a 16-year-old Computer Science student at Nile University of Nigeria, passio
 ## 🚀 Projects
 
 *empty..?*
-
----
-
-## 📈 GitHub Stats
-
-![Rashaad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rashaadAhmad&show_icons=true&theme=radical)  
+ 
 
 
 ---
 
 ## 📫 Connect with Me
 
-- [LinkedIn](your-linkedin-link)   
+- [LinkedIn](http://linkedin.com/in/rashaad-ahmad-14b01a3aa/)   
 - Email: rashaad23367@gmail.com
