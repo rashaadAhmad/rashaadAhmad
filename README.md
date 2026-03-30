@@ -14,8 +14,9 @@ I'm a 16-year-old Computer Science student at Nile University of Nigeria, passio
 
 ## 🚀 Projects
 
-[Fruit Freshness Classification](github.com/rashaadAhmad/Fruit-Freshness) 
-[Emotion Detection](rashaadAhmad/Emotion-Detection)
+[Fruit Freshness Classification](https://github.com/rashaadAhmad/Fruit-Freshness) 
+
+[Emotion Detection](https://github.com/rashaadAhmad/Emotion-Detection)
 
 
 ---
